@@ -1,6 +1,6 @@
 # An Earth-Mover Distance Based Graph Distance Metric For Financial Statements
 
-![Alt text](./images/img.jpg "description")
+![image](./images/img.jpg "Graphical representation of how our proposed distance metric calculates the distance between two companies.")
 
 <!-- TABLE OF CONTENTS -->
 <details>
