@@ -1,5 +1,19 @@
 # An Earth-Mover Distance Based Graph Distance Metric For Financial Statements
 
+This repository contains a Python implementation of the methods described in the paper below:
+name of the paper
+
+*Paper*: https://pages.github.com/
+
+If you find the code useful, please consider citing this paper.
+```bibtex
+@inproceedings{bibtex here
+}
+```
+
+Included is code for REGAL, our node embedding framework for network alignment, and its component node embedding method xNetMF.   
+This is only a reference implementation; without doubt it can be much improved, but we hope it is helpful!
+
 ![image](./images/img.jpg "Graphical representation of how our proposed distance metric calculates the distance between two companies.")
 
 <!-- TABLE OF CONTENTS -->
@@ -31,22 +45,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository contains a Python implementation of methods presented in the following paper:
-
-name of the paper
-
-*Paper*: https://pages.github.com/
-
-Please consider citing this paper if you find the code helpful. 
-```bibtex
-@inproceedings{bibtex here
-}
-```
-
-Included is code for REGAL, our node embedding framework for network alignment, and its component node embedding method xNetMF.   
-This is only a reference implementation; without doubt it can be much improved, but we hope it is helpful!
-
-
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
@@ -65,6 +63,7 @@ Use the `BLANK_README.md` to get started.
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Python](https://www.python.org/)
 * [PuLP](https://pypi.org/project/PuLP/)
 * [NetworkX](https://networkx.org/)
 
