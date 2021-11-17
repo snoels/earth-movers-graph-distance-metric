@@ -1,5 +1,7 @@
 # An Earth-Mover Distance Based Graph Distance Metric For Financial Statements
 
+![Alt text](./images/img.jpg?raw=true "Title")
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
