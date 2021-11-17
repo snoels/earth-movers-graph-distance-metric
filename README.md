@@ -1,6 +1,6 @@
 # An Earth-Mover Distance Based Graph Distance Metric For Financial Statements
 
-This repository contains a Python implementation of the methods described in the paper below:
+This repository contains a Python implementation of the distance metric described in the paper below:
 name of the paper
 
 *Paper*: https://pages.github.com/
@@ -10,9 +10,6 @@ If you find the code useful, please consider citing this paper.
 @inproceedings{bibtex here
 }
 ```
-
-Included is code for REGAL, our node embedding framework for network alignment, and its component node embedding method xNetMF.   
-This is only a reference implementation; without doubt it can be much improved, but we hope it is helpful!
 
 ![image](./images/img.jpg "Graphical representation of how our proposed distance metric calculates the distance between two companies.")
 
