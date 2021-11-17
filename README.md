@@ -1,6 +1,6 @@
 # An Earth-Mover Distance Based Graph Distance Metric For Financial Statements
 
-![Alt text](../images/img.jpg "description")
+![Alt text](./images/img.jpg "description")
 
 <!-- TABLE OF CONTENTS -->
 <details>
