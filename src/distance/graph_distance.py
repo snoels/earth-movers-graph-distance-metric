@@ -1,3 +1,5 @@
+__author__ = 'Sander Noels'
+
 from pulp import *
 
 def redirect_flows(j,node):
