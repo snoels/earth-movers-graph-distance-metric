@@ -10,7 +10,7 @@ This repository contains a Python implementation of the distance metric describe
 If you find the code useful, please consider citing this paper.
 ```bibtex
 @unpublished{noels2021,
-  author = {Noels, Sander},
+  author = {Noels, Sander and Vandermarliere, Benjamin and Bastiaensen, Ken and De Bie, Tijl},
   title = {An Earth Mover's Distance Based Graph Distance Metric For Financial Statements},
   note = {Manuscript submitted for publication},
   year = {2021}
