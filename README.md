@@ -102,7 +102,7 @@ This repository is currently maintained by me. You can reach me at sander.noels@
 You can find me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
+[1.2]: https://img.icons8.com/fluency/48/000000/linkedin.png
 
 <!-- Links to your social media accounts -->
 [1]: https://www.linkedin.com/in/sander-noels-79411815a/
