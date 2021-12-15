@@ -99,7 +99,7 @@ This data is synthetical data inspired on the vertex-weighted balance sheets rep
 This repository is currently maintained by me. You can reach me at sander.noels@ugent.be.
 
 <!-- Actual text -->
-You can find me on [![LinkedIn][1.2\| height=10px]][1].
+You can find me on [![LinkedIn][https://freepngimg.com/thumb/linkedin/6-2-linkedin-transparent.png | width=10px]][1].
 
 <!-- Icons -->
 [1.2]: https://freepngimg.com/thumb/linkedin/6-2-linkedin-transparent.png
