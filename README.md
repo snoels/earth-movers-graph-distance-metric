@@ -3,17 +3,17 @@
 This repository contains a Python implementation of the distance metric described in the paper: 
 *An Earth Mover's Distance Based Graph Distance Metric For Financial Statements*
 
-<!---
-*Paper*: https://snoels.github.com/papers
--->
+*Paper*: https://arxiv.org/abs/2112.07598
 
 If you find the code useful, please consider citing this paper.
 ```bibtex
-@unpublished{noels2021,
-  author = {Noels, Sander and Vandermarliere, Benjamin and Bastiaensen, Ken and De Bie, Tijl},
-  title = {An Earth Mover's Distance Based Graph Distance Metric For Financial Statements},
-  note = {Manuscript submitted for publication},
-  year = {2021}
+@misc{noels2021earth,
+      title={An Earth Mover's Distance Based Graph Distance Metric For Financial Statements}, 
+      author={Sander Noels and Benjamin Vandermarliere and Ken Bastiaensen and Tijl De Bie},
+      year={2021},
+      eprint={2112.07598},
+      archivePrefix={arXiv},
+      primaryClass={cs.CE}
 }
 ```
 
