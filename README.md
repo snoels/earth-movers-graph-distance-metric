@@ -3,18 +3,19 @@
 This repository contains a Python implementation of the distance metric described in the paper: 
 *An Earth Mover's Distance Based Graph Distance Metric For Financial Statements*
 
-*Paper*: https://arxiv.org/abs/2112.07598
+*Paper*: https://ieeexplore.ieee.org/document/9776204
 
 If you find the code useful, please consider citing this paper.
 ```bibtex
-@misc{noels2021earth,
-      title={An Earth Mover's Distance Based Graph Distance Metric For Financial Statements}, 
-      author={Sander Noels and Benjamin Vandermarliere and Ken Bastiaensen and Tijl De Bie},
-      year={2021},
-      eprint={2112.07598},
-      archivePrefix={arXiv},
-      primaryClass={cs.CE}
-}
+@INPROCEEDINGS{9776204,
+  author={Noels, Sander and Vandermarliere, Benjamin and Bastiaensen, Ken and De Bie, Tijl},
+  booktitle={2022 IEEE Symposium on Computational Intelligence for Financial Engineering and Economics (CIFEr)}, 
+  title={An Earth Mover's Distance Based Graph Distance Metric For Financial Statements}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-8},
+  doi={10.1109/CIFEr52523.2022.9776204}}
 ```
 
 ![image](./images/img.jpg "Graphical representation of how our proposed distance metric calculates the distance between two companies.")
